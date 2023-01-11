@@ -1,4 +1,5 @@
 <b> FLOWERS classification using SVM </b>
+<br>
 Introduction
 This project aims to classify different types of flowers using Support Vector Machines (SVM) and histogram of oriented gradients (HOG) features. The dataset used for this project contains images of flowers from different classes.
 
