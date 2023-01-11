@@ -39,5 +39,5 @@ The classification model had an accuracy of 56.01% on the test set. The results 
 <b> Conclusion </b>
 <br>
 In this project, I've used SVM and HOG features along with PCA for dimensionality reduction to classify different types of flowers in the dataset. With careful feature engineering and model selection, the model can be improved to achieve better accuracy.
-
+<br>
 
